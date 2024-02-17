@@ -1,6 +1,8 @@
 # PorkFork
 
-$pfork
+$PFork
+
+420,690,000,000 $PFork Sent to Pulsara Treasury 
 
 Pork Fork is a Fork of Pork.
 
