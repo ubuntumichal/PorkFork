@@ -1,4 +1,4 @@
-# PorkFork
+# Pork Fork
 
 Pork Fork IBC Token on Coreum Mainnet
 
